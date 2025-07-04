@@ -1,0 +1,45 @@
+,,,,
+,,,,
+,,ALIEXPRESS,,
+,,,,
+,,TITLE:,Log in with Google,
+,,PRECONDITIONS:,The user needs to be on the Aliexpress homepage <Aliexpress.com>,
+,,,,
+,,STEP,ACTIONS,VERIFICATIONS
+,,1,"Locate the ""Register / Sign in"" area.","Make sure the ""Register / Sign in"" area is visible."
+,,2,"In the ""Register / Sign in"" area, locate the button for ""Sign in with Google Account"" (icon with ""G"" symbol).","Make sure the ""Sign in with Google Account"" button (icon with ""G"" symbol) is visible."
+,,3,"Click the ""Sign in with Google Account"" button (icon with ""G"" symbol).",A new window will open to log in with the Google account.
+,,4,"In the new window, locate the field to enter your email.",Make sure the email entry field has been clicked so it can receive text.
+,,5,Enter the Google email corresponding to an existing AliExpress account.,Verify that the text has been entered correctly in the email entry field.
+,,6,Locate the field to enter your password.,Make sure the password entry field has been clicked so it can receive text.
+,,7,Enter the correct password for the entered email.,Verify that the text has been entered correctly in the password entry field.
+,,8,"Click the ""Login"" button.","The login window will close, and the AliExpress homepage will refresh with the user logged in."
+,,,,
+,,,,
+,,,,
+,,AMAZON US,,
+,,,,
+,,TITLE:,Access the Returns & Orders menu,
+,,PRECONDITIONS:,The user needs to be on the Amazon homepage <Amazon.com>,
+,,,,
+,,STEP,ACTIONS,VERIFICATIONS
+,,1,"Locate the ""Returns & Orders"" button next to the cart in the upper right corner of the page.","Make sure the ""Returns & Orders"" button is visible."
+,,2,"Click the ""Returns & Orders"" button.",The page will refresh to the login area.
+,,3,"In the new page, locate the field to enter your email.",Make sure the email entry field has been clicked so it can receive text.
+,,4,Enter the email corresponding to an existing Amazon account.,Verify that the text has been entered correctly in the email entry field.
+,,5,Locate the field to enter your password.,Make sure the password entry field has been clicked so it can receive text.
+,,6,Enter the correct password for the entered email.,Verify that the text has been entered correctly in the password entry field.
+,,7,"Click the ""Login"" button.","The page will refresh and show the ""Returns & Orders"" menu."
+,,,,
+,,,,
+,,,,
+,,WALMART,,
+,,,,
+,,TITLE:,Search for a specific item (PlayStation 5),
+,,PRECONDITIONS:,The user needs to be on the Walmart homepage <Walmart.com>,
+,,,,
+,,STEP,ACTIONS,VERIFICATIONS
+,,1,Locate the search bar.,"Make sure the search bar has been clicked, so it can receive text."
+,,2,"In the search bar, type ""Playstation 5"".",Verify that the text has been entered correctly in the search bar.
+,,3,"Click the ""Search"" button (magnifying glass icon).","Check if the loaded page has the correct information for the search: ""Playstation 5""."
+,,4,Click on one of the product that appear on the page.,Confirm that it corresponds to Playstation 5.
