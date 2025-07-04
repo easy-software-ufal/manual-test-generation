@@ -1,6 +1,6 @@
 # Image2Test: Using ChatGPT to Build Manual Tests from Screenshots
 
-This project provides tools and resources for generating, analyzing, and comparing manual test cases using GPT and other similarity metrics. It includes a Jupyter Notebook for generating test cases, a Streamlit application for analyzing test similarity, and CSV files containing human-generated test cases.
+This project provides tools and resources for generating, analyzing, and comparing manual test cases using similarity metrics. It includes a Jupyter Notebook for generating test cases, a Streamlit application for analyzing test similarity, and CSV files containing human-generated test cases.
 
 ## Project Structure
 
