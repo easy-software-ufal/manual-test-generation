@@ -1,0 +1,38 @@
+,,,,
+,,,,
+,,BING MAPS,,
+,,,,
+,,TITLE:,Get directions to a specific destination (UFAL),
+,,PRECONDITIONS:,The user needs to be on the Bing Maps homepage <Bing.com/maps>,
+,,,,
+,,STEP,ACTIONS,VERIFICATIONS
+,,1,"Locate the ""Directions"" button.","Make sure the ""Directions"" button is visible."
+,,2,"Click the ""Directions"" button.",A window will open to search for origin and destination.
+,,3,"In the window that opened, find the Origin search bar and type the desired starting address.",Check if the starting address was entered correctly in the Origin search bar.
+,,4,"In the Destination search bar, type ""UFAL"".","Check if ""UFAL"" was entered correctly in the Destination search bar."
+,,5,"Click the ""Search"" button.","Verify that the page updated, showing the directions from the starting point to ""UFAL""."
+,,6,"Click on the desired mode of transportation from the options provided on the new page (e.g., walking, driving, bus).","Verify that the page updated, showing the route to ""UFAL"" with the chosen mode of transportation."
+,,,,
+,,,,
+,,,,
+,,GOOGLE MAPS,,
+,,,,
+,,TITLE:,"Search for restaurants using the ""Restaurants"" button",
+,,PRECONDITIONS:,The user needs to be on the Google Maps homepage <Google.com/maps>,
+,,,,
+,,STEP,ACTIONS,VERIFICATIONS
+,,1,"Locate the ""Restaurants"" button.","Make sure the ""Restaurants"" button is visible."
+,,2,"Click the ""Restaurants"" button.",Check if a window opened with the nearby restaurants.
+,,3,Choose a restaurant and click on it.,Check if a window opened with the information of the selected restaurant.
+,,,,
+,,,,
+,,,,
+,,WAZE,,
+,,,,
+,,TITLE:,Click on a police icon and verify that the menu displays correctly,
+,,PRECONDITIONS:,The user needs to be on the Waze homepage <Waze.com>,
+,,,,
+,,STEP,ACTIONS,VERIFICATIONS
+,,1,"Locate the ""police"" icon.","Make sure the ""police"" icon is visible."
+,,2,"Click on the ""police"" icon.",Check if the window for the police menu has opened.
+,,3,Verify that the police menu is displayed correctly.,See if the menu has all the information correctly.

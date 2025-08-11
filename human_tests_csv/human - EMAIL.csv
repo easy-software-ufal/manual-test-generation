@@ -1,0 +1,40 @@
+,,,,
+,,,,
+,,GMAIL,,
+,,,,
+,,TITLE:,"Click the ""Compose"" button to create a new email",
+,,PRECONDITIONS:,"The user needs to be in the email inbox, logged into Gmail account <Gmail.com>",
+,,,,
+,,STEP,ACTIONS,VERIFICATIONS
+,,1,"Locate the ""Compose"" button (pencil icon).","Make sure the ""Compose"" button (pencil icon) is visible."
+,,2,"Click the ""Compose"" button (pencil icon).",Check if a window opened to create a new email.
+,,3,"In the new window, find the ""To"" field to enter the email of the recipient.",Make sure the email entry field has been clicked so it can receive text.
+,,4,Enter the email corresponding to send the message.,"Verify that the email has been entered correctly in the ""To"" field."
+,,5,Locate the field to enter your message.,Make sure the message field has been clicked so it can receive text.
+,,6,Type the message you want to send.,Verify that the text has been entered correctly in the message field.
+,,7,"Click the ""Send"" button.","The new email window will close, and a message will appear indicating that the email has been sent in the inbox."
+,,,,
+,,,,
+,,,,
+,,OUTLOOK,,
+,,,,
+,,TITLE:,Mark all emails as read,
+,,PRECONDITIONS:,"The user needs to be in the email inbox, logged into Outlook account  <Outlook.com>",
+,,,,
+,,STEP,ACTIONS,VERIFICATIONS
+,,1,"Locate the ""Mark all as read"" button (open envelope icon).","Make sure the ""Mark all as read"" button (open envelope icon) is visible."
+,,2,"Click the ""Mark all as read"" button (open envelope icon).",Check if all emails have been marked as read.
+,,,,
+,,,,
+,,,,
+,,YAHOO! MAIL,,
+,,,,
+,,TITLE:,Archive an email,
+,,PRECONDITIONS:,"The user needs to be in the email inbox, logged into Yahoo Mail account <Yahoo.com/mail>",
+,,,,
+,,STEP,ACTIONS,VERIFICATIONS
+,,1,Locate the email you want to archive.,Make sure it is the email you want to archive.
+,,2,"Without opening the email, click the checkbox next to the email title.",Check that the checkbox has been checked.
+,,3,"Locate the ""Archive"" button.","Make sure the ""Archive"" button is visible."
+,,4,"Click the ""Archive"" button.",A dialog box will open asking if you are sure you want to archive the email.
+,,5,"Click the ""Yes"" button.","The page will refresh, and a message will appear indicating that the email has been archived."
